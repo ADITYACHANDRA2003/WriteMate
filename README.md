@@ -110,7 +110,7 @@ Customize behavior via `config.json`:
 
 ### Certificate
 <p align="center">
-  <img src = "images/4.jpg" alt="Certificate" width="700"/>
+  <img src = "images/5.png" alt="Certificate" width="700"/>
 </p>
 
 ---
