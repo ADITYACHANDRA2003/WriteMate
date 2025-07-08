@@ -1,0 +1,9 @@
+__pycache__/
+*.log
+*.pyc
+*.tflite
+output.svg
+output.nc
+.env
+.vscode/
+.DS_Store
