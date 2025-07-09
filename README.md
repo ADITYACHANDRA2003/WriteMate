@@ -108,9 +108,12 @@ Customize behavior via `config.json`:
   <img src="images/3.jpg" alt="WriteMate Hardware Setup" width="500"/>
 </p>
 
-### Certificate
+### Certificate and Recognition
 <p align="center">
   <img src = "images/5.png" alt="Certificate" width="700"/>
+</p>
+<p align="center">
+  <img src = "images/6.png" alt="Recognition" width="700"/>
 </p>
 
 ---
